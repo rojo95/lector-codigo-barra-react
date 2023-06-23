@@ -27,7 +27,7 @@ const ContenedorProductos = styled.div`
         border: solid 1px #ccc;
     }
     .empty {
-        min-height: 200px;
+        height: 200px;
     }
 
     @media screen and (max-width: 576px) {
